@@ -1,7 +1,8 @@
 # iOS_UI_Auto
 
-> iOS的环境安装相对较为复杂，提供了一键安装脚本。
-> 脚本中包含其它能力，未做删除，故仅交流学习使用
+> iOS的自动化环境相对较为复杂，提供了一键安装脚本
+> 提供iOS webdriveragent的 shell方式下的启动管理
+> 仅交流学习使用
 
 ### 关键字
 `shell` `ideviceinstaller` `wda`
