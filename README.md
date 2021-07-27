@@ -7,6 +7,8 @@
 ### 关键字
 `shell` `ideviceinstaller` `wda`
 
+![](https://github.com/youran1024/mnp_auto_test/blob/master/Resource/2021-07-27%2015_21_23.gif?raw=true)
+
 ```bash
 #!/usr/bin/env bash
 : '
